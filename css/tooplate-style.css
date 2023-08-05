@@ -946,11 +946,16 @@ http://www.tooplate.com/view/2098-health
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 30px;
+    height: 200px;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 15px -4px rgba(34, 60, 80, 0.2);
   }
 
   .service h3 {
     text-transform: uppercase;
     margin-bottom: 15px;
+    text-align: center;
   }
 
   .service p {
